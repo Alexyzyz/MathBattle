@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 606132acdad57dc45a3c07f687fe0b96, type: 3}
+  m_Name: SkillSteal
+  m_EditorClassIdentifier: 
+  id: steal
+  title: Tangan Licik
+  description: Dapat memberi item apabila serangan ini sukses. Apabila serangan ini
+    juga CRIT, pendapatan item akan dijamin.
+  APCost: 2
+  MPCost: 0
+  successTime: 3
+  critTime: 1
+  critBonus: 1.3
+  damageIsRandom: 1
+  damage: 0
+  damageMin: 8
+  damageMax: 15

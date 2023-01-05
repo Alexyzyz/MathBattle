@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc14c6d2fafe5824eb97809a93b8680a, type: 3}
+  m_Name: HeroUnitMatt
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8680787011677773435, guid: f7926511a65a35d47aa8f59da3d6cde0, type: 3}
+  title: Matt
+  description: 
+  baseStats:
+    maxHP: 0
+    maxAP: 0
+    maxMP: 0
+    HP: 0
+    AP: 0
+    MP: 0
+  startingSkills:
+  - {fileID: 11400000, guid: 6a637450e6db00843b7f26f60311193d, type: 2}
+  - {fileID: 11400000, guid: 5745f402ff2e3a8459511e72b213d85a, type: 2}
+  - {fileID: 11400000, guid: b332194680b611844959822d37f73118, type: 2}
+  - {fileID: 11400000, guid: 6da3ec5b49e050f47bdf3784d9ed209c, type: 2}
+  - {fileID: 11400000, guid: 47e19d6a023af72419cba949d74a53c7, type: 2}
+  - {fileID: 11400000, guid: 213c6388b30d76949935daa759c1b25d, type: 2}
+  - {fileID: 11400000, guid: 3f1af0a2599abc14f99b57239ac691fc, type: 2}
+  - {fileID: 11400000, guid: 8fce45094d50edd458845140f3e61dda, type: 2}
+  startingItems:
+  - data: {fileID: 11400000, guid: 6e541ade7e2f2a643a63c7893384811c, type: 2}
+    qty: 3
