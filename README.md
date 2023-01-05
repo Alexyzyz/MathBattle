@@ -1,7 +1,7 @@
 ### Math Battle
 <img height=300 src="https://img.itch.zone/aW1nLzkxNjI3NDIucG5n/original/lYEpY7.png">
 
-A 2.5D turn-based role-playing slash educative arithmetic desktop game developed using Unity.
+A 2.5D turn-based role-playing and educative arithmetic desktop game developed using Unity.
 
 🎮 **[Itch.io Page](https://alexyz.itch.io/math-battle)**  
 🎞 **[Video Demo](https://youtu.be/UvAgnIdbecw)**
